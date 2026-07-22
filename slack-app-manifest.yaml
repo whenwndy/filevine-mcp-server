@@ -1,0 +1,8 @@
+display_information:
+  name: Filevine (Mock)
+  description: Mock Filevine legal case management platform exposing matters, tasks, deadlines, settlements, and case notes to Slack AI
+
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
